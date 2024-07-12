@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163561467125",
+    "project_id": "lojatarde-6c941",
+    "storage_bucket": "lojatarde-6c941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163561467125:android:49d5b4ec9507af6ae329bc",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDOo1cTjEMLba91dVhNCMxTteww28luM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
